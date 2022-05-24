@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "newdawn:block/deepslate_prismallon_ore_block"
+  }
+}

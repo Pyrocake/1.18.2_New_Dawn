@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "mmm",
+    "x#x",
+    "#x#"
+  ],
+  "key": {
+    "x": {
+      "tag": "forge:dusts/redstone"
+    },
+    "#": {
+      "tag": "forge:ingots/iron"
+    },
+    "m": {
+      "item": "newdawn:prismallon_ingot"
+    }
+  },
+  "result": {
+    "item": "newdawn:powergen"
+  }
+}

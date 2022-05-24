@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "newdawn:raw_prismallon_chunk"
+  },
+  "result": "newdawn:prismallon_ingot",
+  "experience": 0.0,
+  "cookingtime": 100
+}

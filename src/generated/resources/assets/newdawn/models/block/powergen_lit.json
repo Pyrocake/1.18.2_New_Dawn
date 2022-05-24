@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "newdawn:block/powergen_base",
+    "up": "newdawn:block/powergen",
+    "north": "newdawn:block/powergen_front_lit",
+    "south": "newdawn:block/powergen_base",
+    "east": "newdawn:block/powergen_base",
+    "west": "newdawn:block/powergen_base",
+    "particle": "newdawn:block/powergen"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "newdawn:raw_prismallon_chunk"
+    }
+  },
+  "result": {
+    "item": "newdawn:raw_prismallon_block"
+  }
+}

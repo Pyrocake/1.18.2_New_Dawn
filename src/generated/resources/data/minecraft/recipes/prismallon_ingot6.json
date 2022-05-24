@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "newdawn:prismallon_nugget"
+    }
+  },
+  "result": {
+    "item": "newdawn:prismallon_ingot"
+  }
+}

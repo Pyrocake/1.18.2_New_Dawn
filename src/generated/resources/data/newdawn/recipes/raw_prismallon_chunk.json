@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "newdawn:raw_prismallon_block"
+    }
+  ],
+  "result": {
+    "item": "newdawn:raw_prismallon_chunk",
+    "count": 9
+  }
+}

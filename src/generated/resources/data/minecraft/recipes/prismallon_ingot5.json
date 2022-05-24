@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "newdawn:prismallon_block"
+    }
+  ],
+  "result": {
+    "item": "newdawn:prismallon_ingot",
+    "count": 9
+  }
+}

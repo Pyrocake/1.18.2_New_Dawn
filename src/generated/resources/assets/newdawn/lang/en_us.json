@@ -1,0 +1,15 @@
+{
+  "block.newdawn.deepslate_prismallon_ore_block": "Deepslate Prismallon Ore",
+  "block.newdawn.end_prismallon_ore_block": "End Prismallon Ore",
+  "block.newdawn.nether_prismallon_ore_block": "Nether Prismallon Ore",
+  "block.newdawn.overworld_prismallon_ore_block": "Prismallon Ore",
+  "block.newdawn.powergen": "Power Generator",
+  "block.newdawn.prismallon_block": "Prismallon Block",
+  "block.newdawn.raw_prismallon_block": "Raw Prismallon Block",
+  "item.newdawn.prismallon_ingot": "Prismallon Ingot",
+  "item.newdawn.prismallon_nugget": "Prismallon Nugget",
+  "item.newdawn.raw_prismallon_chunk": "Raw Prismallon",
+  "itemGroup.newdawn": "New Dawn",
+  "message.powergen": "Generates %s FE per tick",
+  "screen.tutorial.powergen": "Power generator"
+}

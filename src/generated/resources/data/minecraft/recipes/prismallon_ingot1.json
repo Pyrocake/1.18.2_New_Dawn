@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "newdawn:prismallon_ore"
+  },
+  "result": "newdawn:prismallon_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "newdawn:overworld_prismallon_ore_block",
+    "newdawn:deepslate_prismallon_ore_block",
+    "newdawn:nether_prismallon_ore_block",
+    "newdawn:end_prismallon_ore_block",
+    "newdawn:raw_prismallon_block",
+    "newdawn:prismallon_block",
+    "newdawn:powergen"
+  ]
+}
